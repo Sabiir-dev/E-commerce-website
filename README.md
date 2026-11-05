@@ -13,7 +13,7 @@ A lightweight static e-commerce storefront built with HTML, CSS, and JavaScript.
 
 ## Project structure
 
-- `sabir.html` – storefront landing page
+- `sabir.html / index.html` – storefront landing page
 - `checkout.html` – cart and checkout flow
 - `orders.html` – order history page
 - `tracking.html` – delivery tracking page

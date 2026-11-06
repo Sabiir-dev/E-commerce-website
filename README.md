@@ -1,4 +1,4 @@
-# Sabir E-Commerce Web Project
+# Sabir E-Commerce Project
 
 A lightweight static e-commerce storefront built with HTML, CSS, and JavaScript. The project includes a product catalog, shopping cart, checkout flow, order history, and shipment tracking pages.
 

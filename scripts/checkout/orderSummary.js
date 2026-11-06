@@ -67,7 +67,7 @@ export function renderOrderSummaryHTML() {
       <h4 class="empty-cart-second-title">
         Looks like you haven't make your choice yet...
       </h4>
-      <a href="sabir.html">
+      <a href="index.html">
         <button class="view-products-button">VIEW PRODUCTS</button></a
       >
     </div>`;
